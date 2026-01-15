@@ -1,0 +1,14 @@
+# Dossiers créés par PyInstaller
+build/
+dist/
+
+# Fichiers de configuration de PyInstaller
+*.spec
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
